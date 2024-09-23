@@ -9,7 +9,7 @@
   <body>
     <h1>MIS 4013 Homework 1</h1>
 <?php
-echo phpinfo(;
+echo phpinfo();
 ?>
     <a href="page2.html">Page 2</a>
 <div class="accordion" id="accordionExample">
